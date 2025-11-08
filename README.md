@@ -1,4 +1,4 @@
-# Project 3 - System Monitor
+# Project 3 - System Monitor Tool
 
 ## Capstone Project For Wipro
 
